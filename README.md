@@ -1,5 +1,7 @@
 # Saint-Petersburg Metro Isodistances
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Amarchuk/spb-metro-isodistances)
+
 **About:** It is a one-day project in which I try to plot maps of equal distance to Saint-Petersburg subway ('metro') stations, also called isodistances. I try to achive this with the help of public APIs and Jupyter Notebook.
 
 [View notebook on Nbviewer](http://nbviewer.ipython.org/github/Amarchuk/spb-metro-isodistances/blob/master/Metro%20Isodistances.ipynb)
